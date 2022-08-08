@@ -1,0 +1,32 @@
+body{
+	margin: 30px;
+	background-color:#F0E68C;
+	font-family: sans-serif;
+}
+h1{
+	font-family: sans-serif;
+	color: black;
+}
+h2{
+	color: red
+}
+ul{
+	font-family: monospace;
+	border-color: red;
+	border-style:solid;
+	border-width: 10px
+}
+ li{
+ 	font-family: sans-serif;
+ 	color: blue;
+ }
+ figcaption{
+           font-family: sans-serif;
+           color: red;   	
+ }
+footer{
+	   padding: 5px;
+	   color: white;
+	   background-color: red;
+	   text-align: center;
+}
